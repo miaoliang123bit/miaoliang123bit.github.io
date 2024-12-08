@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "miaoliang123bit"
+title                    : "Personl intr"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "miaoliang123bit"
 description              : &description "personal description"
 url                      : https://miaoliang123bit.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "https://miaoliang123bit.github.io/"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "miaoliang123bit"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
